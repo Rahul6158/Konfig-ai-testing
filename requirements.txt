@@ -4,4 +4,6 @@ sentence-transformers
 langchain
 langchain-community
 groq
-
+transformers
+torch
+accelerate
